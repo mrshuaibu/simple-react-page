@@ -1,7 +1,7 @@
 {
   "name": "components",
   "version": "0.1.0",
-  "homepage": "https://mrshuaibu.github.io/somple-react-page",
+  "homepage": "https://mrshuaibu.github.io/simple-react-page",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
