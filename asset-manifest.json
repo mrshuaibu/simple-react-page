@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.css": "/simple-react-page/static/css/main.12414079.css",
-    "main.js": "/simple-react-page/static/js/main.d7e4833b.js",
+    "main.css": "/simple-react-page/static/css/main.497a96b5.css",
+    "main.js": "/simple-react-page/static/js/main.8d87f3c3.js",
+    "static/media/newlanding.jpg": "/simple-react-page/static/media/newlanding.4944d488e0c4501ecbcb.jpg",
+    "static/media/img3.jpg": "/simple-react-page/static/media/img3.b505556c16bc0002fee4.jpg",
+    "static/media/img1.jpg": "/simple-react-page/static/media/img1.4fbadb0777a143974a31.jpg",
+    "static/media/img4.jpg": "/simple-react-page/static/media/img4.695a457ddda82b686d35.jpg",
+    "static/media/img2.jpg": "/simple-react-page/static/media/img2.d92ade0905b36f5cf8b4.jpg",
     "index.html": "/simple-react-page/index.html",
-    "main.12414079.css.map": "/simple-react-page/static/css/main.12414079.css.map",
-    "main.d7e4833b.js.map": "/simple-react-page/static/js/main.d7e4833b.js.map"
+    "main.497a96b5.css.map": "/simple-react-page/static/css/main.497a96b5.css.map",
+    "main.8d87f3c3.js.map": "/simple-react-page/static/js/main.8d87f3c3.js.map"
   },
   "entrypoints": [
-    "static/css/main.12414079.css",
-    "static/js/main.d7e4833b.js"
+    "static/css/main.497a96b5.css",
+    "static/js/main.8d87f3c3.js"
   ]
 }
